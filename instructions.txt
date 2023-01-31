@@ -1,0 +1,7 @@
+clean data first and determine which data will constitute as week 1 and the last week
+each participant baseline physical activity/sleep
+average steps for each week
+sort by each participant and seperate by weekdays only
+create 2 tables with each participant as rows
+	-columns titled based off each data category collected
+	-averages of the weekday/weekend
